@@ -3,6 +3,9 @@
 *.lo
 *.o
 
+# DEBUG Binary file
+Debug/**/*
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
